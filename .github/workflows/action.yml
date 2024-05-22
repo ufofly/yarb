@@ -38,6 +38,13 @@ jobs:
           git config --global user.name firmianay
           git add archive today.md
           git commit -m "每日安全资讯（`date +'%Y-%m-%d'`）"
+          
+      - name: Pull latest changes
+        run: |
+          git config --global user.email flyme@gmail.com
+          git config --global user.name flyme
+          git pull --rebase origin main
+
 
       - name: Push changes
         uses: ad-m/github-push-action@master
