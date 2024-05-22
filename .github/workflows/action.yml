@@ -43,7 +43,7 @@ jobs:
         run: |
           git config --global user.email flyme@gmail.com
           git config --global user.name flyme
-          git pull --rebase origin main
+          git pull  origin main
 
 
       - name: Push changes
