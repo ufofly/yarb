@@ -79,7 +79,6 @@
 <outline text="Sploitus.com Exploits RSS Feed" type="rss" htmlUrl="https://sploitus.com/rss" title="Sploitus.com Exploits RSS Feed" xmlUrl="https://sploitus.com/rss" />
 <outline text="LIFE likes a MATRIX" type="rss" xmlUrl="http://baronpan.blogspot.com/feeds/posts/default?alt=rss" title="LIFE likes a MATRIX" htmlUrl="http://baronpan.blogspot.com/" />
 <outline type="rss" text="公告列表-阿里云帮助中心" htmlUrl="https://help.aliyun.com/noticelist/9213612.html" title="公告列表-阿里云帮助中心" xmlUrl="https://rsshub.app/aliyun/notice/2" />
-<outline type="rss" htmlUrl="https://packetstormsecurity.com/" title="Packet Storm" xmlUrl="https://rss.packetstormsecurity.com/files/" text="Packet Storm" />
 <outline xmlUrl="http://www.huawei.com/cn/rss-feeds/psirt/rss" htmlUrl="http://www.huawei.com" text="安全通告" type="rss" title="安全通告" />
 <outline htmlUrl="https://bugs.php.net//" title="PHP Bugs" text="PHP Bugs" type="rss" xmlUrl="https://rss.ricterz.me/php_bugs" />
 <outline type="rss" title="Trustwave Blog" xmlUrl="https://www.trustwave.com/en-us/rss/trustwave-blog/" text="Trustwave Blog" htmlUrl="https://www.trustwave.com/en-us/" />
