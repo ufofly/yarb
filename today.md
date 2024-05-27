@@ -1,25 +1,12 @@
 # 每日安全资讯（2024-05-27）
 
-- ArthurChiao's Blog
-  - [Practical Storage Hierarchy and Performance: From HDDs to On-chip Caches（2024）](https://arthurchiao.github.io/blog/practical-storage-hierarchy/)
 - Security Boulevard
   - [4 Reasons Why SaaS Security Must Change | Grip](https://securityboulevard.com/2024/05/4-reasons-why-saas-security-must-change-grip/)
   - [USENIX Security ’23 – ARGUS: Context-Based Detection of Stealthy IoT Infiltration Attacks](https://securityboulevard.com/2024/05/usenix-security-23-argus-context-based-detection-of-stealthy-iot-infiltration-attacks/)
   - [Navigating the AI Revolution: The Global Battle for Tech Supremacy](https://securityboulevard.com/2024/05/navigating-the-ai-revolution-the-global-battle-for-tech-supremacy/)
   - [What is Azure Identity Protection and 7 Steps to a Seamless Setup](https://securityboulevard.com/2024/05/what-is-azure-identity-protection-and-7-steps-to-a-seamless-setup/)
-- SecWiki News
-  - [SecWiki News 2024-05-26 Review](http://www.sec-wiki.com/?2024-05-26)
-- unSafe.sh - 不安全
-  - [4 Reasons Why SaaS Security Must Change | Grip](https://buaq.net/go-241653.html)
-  - [Creating Effective Integration Tests: Best Practices and Tools Within the Spring Framework](https://buaq.net/go-241647.html)
-  - [Quantum Computing Needs More Software Engineers](https://buaq.net/go-241646.html)
-  - [USENIX Security ’23 – ARGUS: Context-Based Detection of Stealthy IoT Infiltration Attacks](https://buaq.net/go-241642.html)
-  - [timwhitez starred I-Wanna-Get-All](https://buaq.net/go-241641.html)
-  - [CVE-2024-33899 WinRAR RAR/UnRAR Escape Sequence 注入漏洞](https://buaq.net/go-241630.html)
-  - [[优惠信息] 哔哩哔哩大会员年中大促 年卡会员折扣仅88元(约7.34元/月)](https://buaq.net/go-241631.html)
-  - [A Summarize-then-Search Method for Long Video Question Answering: Method](https://buaq.net/go-241649.html)
-  - [A Summarize-then-Search Method for Long Video Question Answerin Experiment Details](https://buaq.net/go-241650.html)
-  - [A Summarize-then-Search Method for Long Video Question Answering: Conclusion](https://buaq.net/go-241648.html)
+- ArthurChiao's Blog
+  - [Practical Storage Hierarchy and Performance: From HDDs to On-chip Caches（2024）](https://arthurchiao.github.io/blog/practical-storage-hierarchy/)
 - 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
   - [第一届“长城杯”信息安全铁人三项赛决赛成功举办](https://www.4hou.com/posts/NKZD)
 - Recent Commits to cve:main
@@ -30,47 +17,54 @@
   - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 - KitPloit - PenTest &amp; Hacking Tools
   - [Domainim - A Fast And Comprehensive Tool For Organizational Network Scanning](http://www.kitploit.com/2024/05/domainim-fast-and-comprehensive-tool.html)
-- 黑海洋 - WIKI
-  - [Miko 翻译 - 免费在线人工智能翻译工具（不限字数）](https://www.upx8.com/4174)
 - 程序人生
   - [CVE-2024-33899 WinRAR RAR/UnRAR Escape Sequence 注入漏洞](https://programlife.net/2024/05/26/cve-2024-33899-winrar-escape-sequence-injection-vulnerability/)
+- 奇客Solidot–传递最新科技情报
+  - [微软开源 GW-BASIC](https://www.solidot.org/story?sid=78273)
+  - [Google 修改搜索算法，Reddit 是大赢家](https://www.solidot.org/story?sid=78272)
+  - [Steam 客服声称账号是不可转让的](https://www.solidot.org/story?sid=78271)
+- 黑海洋 - WIKI
+  - [Miko 翻译 - 免费在线人工智能翻译工具（不限字数）](https://www.upx8.com/4174)
+- 安全研究GoSSIP
+  - [安全与可信超级应用研讨会（SaTS 2024）正在征稿](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247498090&idx=1&sn=329fb6d5edebb3159005e28e85f3249f&chksm=c063d7b3f7145ea55d99ad3885561b57c510ba8afadb687de776e360b7b8cefd5dfd241d8900&scene=58&subscene=0#rd)
+- 青衣十三楼飞花堂
+  - [小学数学题--分盐](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247487432&idx=1&sn=314e3768a6273d0c449ca30c83d3720b&chksm=fab2ccf7cdc545e19504e733ec7a871da8a3e82d3a4119e14243d2b727f82392ec00b478514f&scene=58&subscene=0#rd)
 - dotNet安全矩阵
   - [.NET 调用恶意的系统API一览](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247492124&idx=1&sn=f285290dcda2cf781d14b58d35bc31c7&chksm=fa594cf1cd2ec5e72c36c5070735dc71ba9e1f45620062e3c5caad1d7f6163c7d01b4a6592ea&scene=58&subscene=0#rd)
   - [.NET 分享一款多种方式维持权限的工具](https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247492124&idx=2&sn=ac3929c67ec39d3b86692972dd1a247c&chksm=fa594cf1cd2ec5e75717497be0cb028afa02ce92e33c5eb9c998e09055d07f317d528e6f05bf&scene=58&subscene=0#rd)
-- 青衣十三楼飞花堂
-  - [小学数学题--分盐](https://mp.weixin.qq.com/s?__biz=MzUzMjQyMDE3Ng==&mid=2247487432&idx=1&sn=314e3768a6273d0c449ca30c83d3720b&chksm=fab2ccf7cdc545e19504e733ec7a871da8a3e82d3a4119e14243d2b727f82392ec00b478514f&scene=58&subscene=0#rd)
-- 安全研究GoSSIP
-  - [安全与可信超级应用研讨会（SaTS 2024）正在征稿](https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247498090&idx=1&sn=329fb6d5edebb3159005e28e85f3249f&chksm=c063d7b3f7145ea55d99ad3885561b57c510ba8afadb687de776e360b7b8cefd5dfd241d8900&scene=58&subscene=0#rd)
 - 极客公园
   - [余承东：鸿蒙原生应用超 4000 款；Win10 明年暂停所有支持；QQ「老大哥」ICQ 聊天软件将停服 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653042466&idx=1&sn=465e42011bb412ddcbae29ec30f1353d&chksm=7e574a944920c382d47028de7a3df38d6c32ad489c9816b1e3d8a4be95afb42bb67688be0f9e&scene=58&subscene=0#rd)
-- 迪哥讲事
-  - [SSRF骚思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247494781&idx=1&sn=da474667793767bc5ab931fde0fa09f1&chksm=e8a5e61edfd26f08d41122105832d656f88e11c9257db6b0fda8b5ed11b045b6b259930cfa83&scene=58&subscene=0#rd)
+- 电子物证
+  - [【假设你是一名情报侦查员，从这张照片中，你可以得出哪些线索？】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651047371&idx=1&sn=7ada223e553b5521d38c5af64dd0b039&chksm=80d08a3ab7a7032cbcbf05b20aa940c0ddebc982631e40077f7a85063be9d3f6b0dd577f67dc&scene=58&subscene=0#rd)
+  - [【从电话录音中揪出贩毒案幕后主犯】](https://mp.weixin.qq.com/s?__biz=MzAwNDcwMDgzMA==&mid=2651047371&idx=2&sn=ccd695c670cb0f0b0570f35802675435&chksm=80d08a3ab7a7032c8ce04c3bdc7bcea48563df05fa818e4ee6ea9cfd3db822f071cb498b4168&scene=58&subscene=0#rd)
 - Over Security - Cybersecurity news aggregator
   - [Guerre di Rete - Effetto Scarlett](https://guerredirete.substack.com/p/guerre-di-rete-effetto-scarlett)
   - [Un ChatGPT italiano van cercando](https://www.guerredirete.it/un-chatgpt-italiano-van-cercando/)
+- 迪哥讲事
+  - [SSRF骚思路](https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247494781&idx=1&sn=da474667793767bc5ab931fde0fa09f1&chksm=e8a5e61edfd26f08d41122105832d656f88e11c9257db6b0fda8b5ed11b045b6b259930cfa83&scene=58&subscene=0#rd)
 - SANS Internet Storm Center, InfoCON: green
   - [YARA 4.5.1 Release, (Sun, May 26th)](https://isc.sans.edu/diary/rss/30956)
 - bellingcat
   - [Missing Tugboat ‘Solo Creed’ Resurfaces in Angola After $23m Oil Spill in Tobago](https://www.bellingcat.com/news/2024/05/26/missing-tugboat-solo-creed-resurfaces-in-angola-after-23m-oil-spill-in-tobago/)
-- Security Affairs
-  - [CERT-UA warns of malware campaign conducted by threat actor UAC-0006](https://securityaffairs.com/163711/cyber-warfare-2/cert-ua-warns-uac-0006-massive-campaigns.html)
-  - [Security Affairs newsletter Round 473 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/163707/breaking-news/security-affairs-newsletter-round-473-by-pierluigi-paganini-international-edition.html)
-  - [Malware-laced JAVS Viewer deploys RustDoor implant in supply chain attack](https://securityaffairs.com/163683/hacking/supplay-chain-attack-javs-viewer.html)
+- Your Open Hacker Community
+  - [Trouble running executable RAT after encryption](https://www.reddit.com/r/HowToHack/comments/1d0r7z3/trouble_running_executable_rat_after_encryption/)
 - Computer Forensics
   - [FOR577: LINUX Incident Response and Threat Hunting](https://www.reddit.com/r/computerforensics/comments/1d15pdz/for577_linux_incident_response_and_threat_hunting/)
   - [Help :)](https://www.reddit.com/r/computerforensics/comments/1d191ki/help/)
   - [Axiom Cyber extraction of a Samsung Galaxie Note 10+model SM-N976U](https://www.reddit.com/r/computerforensics/comments/1d13wso/axiom_cyber_extraction_of_a_samsung_galaxie_note/)
-- netsecstudents: Subreddit for students studying Network Security and its related subjects
-  - [WTF happened to TCM Academy's prices?](https://www.reddit.com/r/netsecstudents/comments/1d14dii/wtf_happened_to_tcm_academys_prices/)
-- Information Security
-  - [Urgent: CVE-2024-1086 : Upgrade your Linux Distribution's Kernel right now!!](https://www.reddit.com/r/Information_Security/comments/1d0te0j/urgent_cve20241086_upgrade_your_linux/)
-- Your Open Hacker Community
-  - [Trouble running executable RAT after encryption](https://www.reddit.com/r/HowToHack/comments/1d0r7z3/trouble_running_executable_rat_after_encryption/)
-- Blackhat Library: Hacking techniques and research
-  - [Linux is just inferior.](https://www.reddit.com/r/blackhat/comments/1d17gwg/linux_is_just_inferior/)
-- Social Engineering
-  - [Help](https://www.reddit.com/r/SocialEngineering/comments/1d14i68/help/)
 - Deep Web
   - [I2P or Tor](https://www.reddit.com/r/deepweb/comments/1d19pst/i2p_or_tor/)
+- Security Affairs
+  - [CERT-UA warns of malware campaign conducted by threat actor UAC-0006](https://securityaffairs.com/163711/cyber-warfare-2/cert-ua-warns-uac-0006-massive-campaigns.html)
+  - [Security Affairs newsletter Round 473 by Pierluigi Paganini – INTERNATIONAL EDITION](https://securityaffairs.com/163707/breaking-news/security-affairs-newsletter-round-473-by-pierluigi-paganini-international-edition.html)
+  - [Malware-laced JAVS Viewer deploys RustDoor implant in supply chain attack](https://securityaffairs.com/163683/hacking/supplay-chain-attack-javs-viewer.html)
 - KitPloit - PenTest Tools!
   - [Domainim - A Fast And Comprehensive Tool For Organizational Network Scanning](http://www.kitploit.com/2024/05/domainim-fast-and-comprehensive-tool.html)
+- Information Security
+  - [Urgent: CVE-2024-1086 : Upgrade your Linux Distribution's Kernel right now!!](https://www.reddit.com/r/Information_Security/comments/1d0te0j/urgent_cve20241086_upgrade_your_linux/)
+- Social Engineering
+  - [Help](https://www.reddit.com/r/SocialEngineering/comments/1d14i68/help/)
+- netsecstudents: Subreddit for students studying Network Security and its related subjects
+  - [WTF happened to TCM Academy's prices?](https://www.reddit.com/r/netsecstudents/comments/1d14dii/wtf_happened_to_tcm_academys_prices/)
+- CodeAnalyzer Ultra
+  - [黑盒？白盒？灰盒？搞安全的怎么这么喜欢“盒子”？](https://mp.weixin.qq.com/s?__biz=MzkxNzY3MjE1NA==&mid=2247484439&idx=1&sn=f8ab9b28b60ab717d7239603567c991d&chksm=c1bc5da2f6cbd4b4c7dd82db7c2b9777621d35372c4ffadc2f7ce699baa55ec7624d19706945&scene=58&subscene=0#rd)
