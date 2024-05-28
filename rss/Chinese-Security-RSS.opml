@@ -10,7 +10,6 @@
        <outline text="绿盟" title="绿盟" type="rss" xmlUrl="http://blog.nsfocus.net/feed" htmlUrl="http://blog.nsfocus.net"/>
        <outline text="嘶吼" title="嘶吼" type="rss" xmlUrl="https://www.4hou.com/feed" htmlUrl="https://www.4hou.com"/>
        <outline text="腾讯玄武实验室" title="腾讯玄武实验室" type="rss" xmlUrl="https://xlab.tencent.com/cn/atom.xml" htmlUrl="https://xlab.tencent.com"/>
-       <outline text="SecWiki News(国内外安全资讯)" title="SecWiki News(国内外安全资讯)" type="rss" xmlUrl="https://www.sec-wiki.com/news/rss" htmlUrl="https://www.sec-wiki.com/news"/>
        <outline text="知道创宇" title="知道创宇" type="rss" xmlUrl="http://blog.knownsec.com/feed" htmlUrl="http://blog.knownsec.com"/>
        <outline text="信息安全知识库" title="信息安全知识库" type="rss" xmlUrl="https://vipread.com/feed" htmlUrl="https://vipread.com"/>
        <outline text="美团技术团队" title="美团技术团队" type="rss" xmlUrl="https://tech.meituan.com/feed" htmlUrl="https://tech.meituan.com"/>
